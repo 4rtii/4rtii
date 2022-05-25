@@ -12,7 +12,8 @@ I am a 19 year old student passionate about cybersecurity, specially in pentesti
   - Windows Server/Active Directory
   - Linux
   - Web Pentesting
-  - WiFi Hacking 
+  - WiFi Hacking
+  - Privilege Escalation 
 
 ## [](#header-2)📫 Contact me
 - 📧 arcan5447@gmail.com
