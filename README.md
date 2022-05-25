@@ -6,8 +6,8 @@ I am a 19 year old cybersecurity enthusiast, specially in pentesting.
 - 🌐 [My website](https://4rtii.github.io)
 - 📦 [My HackTheBox Profile](https://app.hackthebox.com/profile/839583)
 
-## [](#header-2)⚡ Skills
-- 👨‍💻 Python, Bash
+## [](#header-2)⚡ Tech Skills
+- 👨‍💻 Python, Bash (offensive)
 - 👁️ Red Team
   - Windows Server/Active Directory
   - Linux
