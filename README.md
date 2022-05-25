@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I am Arturo![image](https://user-images.githubusercontent.com/91927582/170192349-5e055e82-155a-420e-87c9-01fc0fcbed79.png)
+  Hi, I am Arturo! 👋
 </h1>
 I am a 19 year old student passionate about cybersecurity, specially in pentesting.
 
