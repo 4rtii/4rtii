@@ -4,7 +4,7 @@ I am a 19 year old student passionate about cybersecurity, specially in pentesti
 - 🌐 [My website](https://4rtii.github.io)
 - 📦 [My HackTheBox Profile](https://app.hackthebox.com/profile/839583)
 
-### [](#header-3)⚡ Skills
+## [](#header-2)⚡ Skills
 - 👨‍💻 Python, Bash
 - 👁️ Red Team
   - Windows Server/Active Directory
@@ -12,7 +12,7 @@ I am a 19 year old student passionate about cybersecurity, specially in pentesti
   - Web Pentesting
   - WiFi Hacking 
 
-### [](#header-3)📫 Contact me
+## [](#header-2)📫 Contact me
 - 📧 arcan5447@gmail.com
 <!--
 **4rtii/4rtii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
