@@ -1,6 +1,6 @@
-<p align="center">
-  # [](#header-1)Hi, I am Arturo 👋
-</p>
+<h1 align="center">
+  Hi, I am Arturo 👋
+</h1>
 I am a 19 year old student passionate about cybersecurity, specially in pentesting.
 
 - 🌐 [My website](https://4rtii.github.io)
