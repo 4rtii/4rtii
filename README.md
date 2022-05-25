@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi, I am Arturo 👋
+* * *
+I am a 19 year old student passionate about cybersecurity, specially in pentesting.
 
+- 🌐 [My website](https://4rtii.github.io)
+- 📦 [My HackTheBox Profile](https://app.hackthebox.com/profile/839583)
+
+####⚡ Skills
+* * *
+- 👨‍💻 Python, Bash
+- 👁️ Red Team
+  - Windows Server/Active Directory
+  - Linux
+  - Web Pentesting
+  - WiFi Hacking 
+
+####📫 Contact me
+* * *
+- 📧 arcan5447@gmail.com
 <!--
 **4rtii/4rtii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
